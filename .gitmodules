@@ -1,0 +1,6 @@
+[submodule "segment-anything"]
+	path = segment-anything
+	url = https://github.com/facebookresearch/segment-anything.git
+[submodule "MONAI_tutorials"]
+	path = MONAI_tutorials
+	url = https://github.com/Project-MONAI/tutorials.git
